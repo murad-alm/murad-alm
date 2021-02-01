@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you around!</h1>
-<p>I am Murad Al Moadamani from Syria, currently living in Germany.</br>I am interested in Back-end programming, IT security, Pen. testing and other geek stuff.</p>
+<p align="left">
+   I am Murad Al Moadamani from Syria, currently living in Germany.</br>I am interested in Back-end programming, IT security, Pen. testing and other geek stuff.
+</p>
 <h3>Talking about Personal Stuffs:</h3>
-<p>
+<p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
 - 🎓 I'm currently studying Media Informatics at Ulm University, Germany :de:</br>
 - 🎲 My hobbies are: electric guitar, reading, gaming and playing chess!</br>
@@ -9,10 +11,9 @@
 - 📚 Languages i speak: English, German, Arabic and some Spanish</br>
 - ⚡ Fun fact: I love Metal/Rock'n'Roll :metal::sunglasses::metal:</br>
 </p>
-
 <h3>Languages and Tools:</h3>
 <p align="left">
-   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -24,7 +25,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
 <h3>Listening to:</h3>
-<!--https://spotify-github-profile.vercel.app/api/login-->
+
+<!--https://spotify-github-profile.vercel.app/api/login--->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true)
