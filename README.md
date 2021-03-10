@@ -2,7 +2,7 @@
 <p align="left">
    I am Murad Al Moadamani from Syria, currently living in Germany.</br>I am interested in Back-end programming, IT security, Pen. testing and other geek stuff.
 </p>
-<img align="right" alt="GIF" height="320px" width="400px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" />
+<img align="right" alt="GIF" height="320px" width="380px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" />
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
