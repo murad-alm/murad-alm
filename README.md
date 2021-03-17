@@ -6,11 +6,11 @@
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
-- 🎓 I'm currently studying Media Informatics at Ulm University, Germany :de:</br>
+- 🎓 I'm currently studying Media Informatics at Ulm University, Germany
 - 🎲 My hobbies are: electric guitar, reading, gaming and playing chess!</br>
 - 😄 Pronouns: he/him</br>
 - 📚 Languages i speak: English, German, Arabic and some Spanish</br>
-- ⚡ Fun fact: I love Metal/Rock'n'Roll :metal::sunglasses::metal:</br>
+- ⚡ Fun fact: I love Metal & Rock'n'Roll :metal::sunglasses::metal:</br>
 </p>
 <h3>Languages and Tools I Use:</h3>
 <p align="left">
