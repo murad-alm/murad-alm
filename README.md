@@ -6,7 +6,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
-- 🎓 I'm currently studying Media Informatics at Ulm University, Germany
+- 🎓 I'm currently studying Media Informatics at Ulm University, Germany<&br>
 - 🎲 My hobbies are: electric guitar, reading, gaming and playing chess!</br>
 - 😄 Pronouns: he/him</br>
 - 📚 Languages i speak: English, German, Arabic and some Spanish</br>
