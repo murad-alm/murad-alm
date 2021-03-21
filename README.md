@@ -29,8 +29,6 @@
 </p>
 <h3>Listening to:</h3>
 
-<!--TryHackMe-->
-<script src="https://tryhackme.com/badge/370158"></script>
 
 <!--https://spotify-github-profile.vercel.app/api/login--->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true)
