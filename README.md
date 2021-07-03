@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you around!</h1>
 <p align="left">
-   I am Murad Al Moadamani from Syria, currently living in Germany.</br>I am interested in Back-end programming, IT security, Pen. testing and other geek stuff.
+   I am Murad Al Moadamani from Germany.</br>I am interested in Back-end programming, IT security, Pen. testing and other geek stuff.
 </p>
 <img align="right" alt="GIF" height="300px" width="370px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" />
 <h3>Talking about Personal Stuffs:</h3>
