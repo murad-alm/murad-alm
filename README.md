@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you around!</h1>
 <p align="left">
-   I am Murad Al Moadamani from Germany.</br>I am interested in Back-end programming, IT security, Pen. testing and other geek stuff.
+   I am Murad Al Moadamani from Germany.</br>I am interested in Back-end programming, Cyber Security, Pen. testing and other geek stuff.
 </p>
 <img align="right" alt="GIF" height="300px" width="370px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" />
 <h3>Talking about Personal Stuffs:</h3>
@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on something cool :wink:</br>
 - 🎓 I'm currently studying Media Informatics at Ulm University, Germany</br>
 - 🎲 My hobbies are: electric guitar, reading, gaming and playing chess!</br>
-- 😄 Pronouns: he/him</br>
 - 📚 Languages i speak: English, German, Arabic and some Spanish</br>
 - ⚡ Fun fact: I love Metal & Rock'n'Roll :metal::sunglasses::metal:</br>
 </p>
