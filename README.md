@@ -2,7 +2,7 @@
 <p align="left">
    I am Murad Al Moadamani from Germany.</br>I am interested in Back-end programming, Cyber Security, Pen. testing and other geek stuff.
 </p>
-<img align="right" alt="GIF" height="300px" width="370px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" />
+<img align="right" alt="GIF" height="300px" width="300px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" />
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
