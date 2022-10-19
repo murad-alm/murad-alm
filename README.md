@@ -6,7 +6,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
-- 🎓 I'm currently studying Media Informatics at Ulm University, Germany</br>
+- 🎓 I've recently finished my Bachelor in Media Informatics at Ulm University, Germany</br>
 - 🎲 My hobbies are: electric guitar, reading, gaming and playing chess!</br>
 - 📚 Languages i speak: English, German, Arabic and some Spanish</br>
 - ⚡ Fun fact: I love Metal & Rock'n'Roll :metal::sunglasses::metal:</br>
@@ -27,6 +27,8 @@
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
    <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="flutter" width="40" height="40"/> </a>
    <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="dart" width="40" height="40"/> </a>
+   <a href="https://spring.io/" target="_blank"> <img src="https://spring-petclinic.github.io/images/logo-spring.png" alt="dart" width="40" height="40"/> </a>
+   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="dart" width="40" height="40"/> </a>
    
    
    
