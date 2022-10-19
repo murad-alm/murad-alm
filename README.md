@@ -27,8 +27,9 @@
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
    <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="flutter" width="40" height="40"/> </a>
    <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="dart" width="40" height="40"/> </a>
-   <a href="https://spring.io/" target="_blank"> <img src="https://spring-petclinic.github.io/images/logo-spring.png" alt="dart" width="40" height="40"/> </a>
-   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="dart" width="40" height="40"/> </a>
+   <a href="https://spring.io/" target="_blank"> <img src="https://spring-petclinic.github.io/images/logo-spring.png" alt="Spring" width="40" height="40"/> </a>
+   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" width="40" height="40"/> </a>
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> </a>
    
    
    
