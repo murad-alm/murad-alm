@@ -11,7 +11,7 @@
 - 📚 Languages i speak: English, German, Arabic and some Spanish</br>
 - ⚡ Fun fact: I love Metal & Rock'n'Roll :metal::sunglasses::metal:</br>
 </p>
-<h3>Languages and Tools I Use:</h3>
+<h3>Languages and Tools I Use/familiar with:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a 
