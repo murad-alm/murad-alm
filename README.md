@@ -31,8 +31,6 @@
    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" width="40" height="40"/> </a>
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> </a>
    <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="40" height="40"/> </a>
-   <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/512/spring-logo.png" alt="Spring" width="40" height="40"/> </a>
-   
    
    
 </p>
